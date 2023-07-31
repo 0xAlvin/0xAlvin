@@ -5,7 +5,7 @@ I'm thrilled to have you here!,I'm on a mission to build exceptional software th
 
 - 🌱 I’m currently learning **nodejs, GraphQl, flutter**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **alvinvaati@gmail.com**
 
