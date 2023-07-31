@@ -29,8 +29,6 @@ I'm a firm believer in the power of collaboration and the magic it can create. I
 Happy coding and keep pushing those boundaries! 🎉
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alvinv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alvinv" /></a></p>
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="LEV9RF69Q9UX8" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<div align="right">
+
+[![Donate via PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/donate?hosted_button_id=LEV9RF69Q9UX8)</div>
