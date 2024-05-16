@@ -85,7 +85,7 @@
 
 <p align="center">Happy coding 🎉</p>
 
-<h2 align="left">💖 Support</h2>
+<h2 align="left">Support</h2>
 <p align="left">
     <a href="https://www.buymeacoffee.com/alvinv">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alvinv"/>
