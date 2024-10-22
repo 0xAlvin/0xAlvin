@@ -48,8 +48,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<hr/>📊
-
+<hr/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0xAlvin&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
