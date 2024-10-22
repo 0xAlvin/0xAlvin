@@ -8,7 +8,7 @@
     I am a software engineer specializing in backend development, with a focus on creating scalable and efficient systems using modern technologies. My passion lies in building robust architectures and solving complex engineering challenges.
 </p>
 
-<h2 align="left">🔗 Connect with Me</h2>
+<h4 align="left">🔗 Connect with Me</h4>
 <p align="left">
     <a href="https://www.linkedin.com/in/alvin/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
