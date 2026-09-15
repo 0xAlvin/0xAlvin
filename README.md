@@ -23,7 +23,7 @@
 **Backend & Mobile Engineer** specializing in **scalable system architecture** and **cloud infrastructure design**. Currently expanding mobile development expertise while maintaining deep backend and DevOps capabilities.
 
 **Key Strengths:**
-- **System Design**: Architecting scalable solutions handling 10K+ concurrent users
+- **System Design**: Architecting scalable solutions handling high traffic concurrent users
 - **Backend Development**: RESTful APIs, microservices, and distributed systems
 - **Mobile Development**: Native Android apps with modern Kotlin/Compose stack
 - **Cloud Infrastructure**: AWS deployment, containerization, and CI/CD pipelines
